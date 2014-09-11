@@ -1,6 +1,7 @@
 package calc;
 
 public class CalculatorMain {
+	
 
 	public static void main(String[] args) {
 
@@ -34,7 +35,7 @@ public class CalculatorMain {
 		// ~
 		// Uncomment the rest of these lines only if you choose to implement the extra functions //
 		
-		/* 
+		 
 		
 		c.clear();
 		c.add(4);
@@ -47,13 +48,14 @@ public class CalculatorMain {
 		System.out.println("Challenge 2 - Is " + c.getCurrentNumber() + " even?");
 		System.out.println("Expected Answer: false, Calculated Answer: " + c.isEven() + "\n");
 		
+		/*
 		System.out.println("Challenge 3 - Is " + c.getCurrentNumber() + " a prime number?");
-		System.out.println("Expected Answer: true, Calculated Answer: " + c.isEven() + "\n");
+		System.out.println("Expected Answer: true, Calculated Answer: " + c.isPrime() + "\n");
 		
 		c.add(1);
 		
 		System.out.println("Challenge 4 - Is " + c.getCurrentNumber() + " even?");
-		System.out.println("Expected Answer: false, Calculated Answer: " + c.isEven());
+		System.out.println("Expected Answer: false, Calculated Answer: " + c.iPrime());
 
 		*/
 
